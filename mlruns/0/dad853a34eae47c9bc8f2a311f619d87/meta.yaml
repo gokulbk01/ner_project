@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shoreline/Desktop/ner_project/mlruns/0/dad853a34eae47c9bc8f2a311f619d87/artifacts
+end_time: 1741770061190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dad853a34eae47c9bc8f2a311f619d87
+run_name: ner_training
+run_uuid: dad853a34eae47c9bc8f2a311f619d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741770057033
+status: 3
+tags: []
+user_id: shoreline
